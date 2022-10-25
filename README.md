@@ -1,6 +1,8 @@
 # Personalized Discount Recommendation System for a Retail Store 
 
-This folder implements our solution for the project
+The ML-based system that recommends personal discounts for regular customers of a retail grocery store that utilizes the history of purchases in the store as input data.
+It applied skip-gram (Porduct2Vec), t-SNE, and cluster analysis to derive the features capturing complement-substitute relationships between sold items. The objective function of the system is the store revenue
+
 
 
 ## Pipeline
