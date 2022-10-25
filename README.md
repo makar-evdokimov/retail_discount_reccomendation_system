@@ -1,6 +1,6 @@
-# MLiM Final Project (Group 9)
+# Personalized Discount Recommendation System for a Retail Store 
 
-This folder implements our solution for final project exercise
+This folder implements our solution for the project
 
 
 ## Pipeline
